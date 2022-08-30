@@ -236,6 +236,11 @@
       (net 9 /TGT_NRESET))
     (pad 1 smd rect (at -3.65 0 270) (size 1.1 1) (layers F.Cu F.Paste F.Mask)
       (net 2 GND))
+    (model ${PROJ_3DMOD}/C2845294.step
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module JLC-SMT:Oscillator_SMD_3.2x2.5mm (layer F.Cu) (tedit 5FE15D35) (tstamp 63074390)
@@ -1230,6 +1235,11 @@
       (net 18 "Net-(J1-PadS1)"))
     (pad S1 thru_hole oval (at -2 -1.93 270) (size 2.1 1.2) (drill oval 1.5 0.6) (layers *.Cu *.Mask)
       (net 18 "Net-(J1-PadS1)"))
+    (model ${PROJ_3DMOD}/C2761226.step
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED_SMD:LED_0603_1608Metric (layer F.Cu) (tedit 5F68FEF1) (tstamp 63063921)
