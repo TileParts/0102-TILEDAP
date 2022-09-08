@@ -828,9 +828,12 @@ L MCU_ST_STM32F1:STM32F103TBUx U2
 U 1 1 63570C9A
 P 9100 2800
 F 0 "U2" H 9050 3881 50  0000 C CNN
-F 1 "STM32F103TBUx" H 9050 3790 50  0000 C CNN
+F 1 "STM32F103TBU6" H 9050 3790 50  0000 C CNN
 F 2 "Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP4.1x4.1mm" H 8500 1900 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf" H 9100 2800 50  0001 C CNN
+F 4 "ST" H 9100 2800 50  0001 C CNN "Manufacturer"
+F 5 "C8363" H 9100 2800 50  0001 C CNN "PartNumber"
+F 6 "JLC-EXT" H 9100 2800 50  0001 C CNN "Supplier"
 	1    9100 2800
 	1    0    0    -1  
 $EndComp
