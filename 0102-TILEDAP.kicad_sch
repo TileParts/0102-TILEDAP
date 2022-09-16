@@ -2573,7 +2573,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000630e036e)
     (property "Reference" "R11" (id 0) (at 52.07 159.893 90))
-    (property "Value" "1.5K" (id 1) (at 52.07 162.2044 90))
+    (property "Value" "220R" (id 1) (at 52.07 162.2044 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 51.816 166.116 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2583,7 +2583,7 @@
     (property "Manufacturer" "UniOhm" (id 4) (at 52.07 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNumber" "C25867" (id 5) (at 52.07 165.1 0)
+    (property "PartNumber" "C25091" (id 5) (at 52.07 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Supplier" "JLC" (id 6) (at 52.07 165.1 0)
@@ -3858,7 +3858,7 @@
       (reference "R10") (unit 1) (value "1.5K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-0000630e036e"
-      (reference "R11") (unit 1) (value "1.5K") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R11") (unit 1) (value "220R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-0000630ad8fe"
       (reference "R12") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
